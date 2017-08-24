@@ -41,32 +41,5 @@ public class Main {
 		System.out.println(dao.findbyId(1).getActiver());
 		
 		
-		
-//		ArticleDAO.AjouterArticle(11, "Tale", 77, "Text2, text2, text2." );
-		
-//		List<User> listUser = UserDAO.getUser();	
-//		System.out.println("List of users :");
-//		for (User u: listUser){
-//			System.out.println(u.toString());
-//		}
-//		
-//		List<Article> listArt = ArticleDAO.getArticle();	
-//		System.out.println("List of Articles :");
-//		for (Article art: listArt){
-//			System.out.println(art.toString());
-//		}
-//		
-//		List<Article> listArtID = ArticleDAO.getArticle();	
-//		System.out.println("List of Articles :");
-//		for (Article artID: listArtID){
-//			System.out.println(artID.toString());
-//		}
-//		
-//		if (UserDAO.isUserExist("Liuda","123")) {
-//			System.out.println("User exist");
-//		} else {
-//			System.out.println("User do not exist");
-//		}
-		
 	}
 }
